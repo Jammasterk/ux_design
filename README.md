@@ -1,2 +1,2 @@
 # ux_design
-user excprience design files from figma and such
+user experience design files from figma and such
